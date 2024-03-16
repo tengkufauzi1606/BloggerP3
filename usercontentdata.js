@@ -1,0 +1,13 @@
+document.write('<div class="container"><div class="tfikn"><div class="adsbygoogle">');
+document.write('<script async="async" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7780075363456361" crossorigin="anonymous" ></script>');
+document.write('<!-- P3 Header -->');
+document.write('<ins class="adsbygoogle"');
+document.write('     style="display:block"');
+document.write('     data-ad-client="ca-pub-7780075363456361"');
+document.write('     data-ad-slot="6230581403"');
+document.write('     data-ad-format="auto"');
+document.write('     data-full-width-responsive="true"></ins>');
+document.write('<script>');
+document.write('     (adsbygoogle = window.adsbygoogle || []).push({});');
+document.write('</script>');
+document.write('</div></div>');
